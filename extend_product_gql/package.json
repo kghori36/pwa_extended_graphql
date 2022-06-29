@@ -1,0 +1,16 @@
+{
+  "name": "@aatech/extend_product_gql",
+  "version": "0.0.1",
+  "description": "",
+  "main": "-",
+  "scripts": {
+    "test": "-"
+  },
+  "keywords": [
+  ],
+  "eslintConfig": {
+    "extends": "@aatech"
+},
+  "author": "Ali Arsalan<aliarsalan177@gmail.com>",
+  "license": "OSL-3.0"
+}
